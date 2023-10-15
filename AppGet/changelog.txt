@@ -1,0 +1,6 @@
+What's New:
+
+- MORE modularized components
+- New changelog and Description areas
+- Gradle 8.4 and AGP 8.1.2
+- Dependency updates
