@@ -1,10 +1,25 @@
-- Bump hilt-android-compiler from 2.43 to 2.43.2 in /app by @dependabot in #16
-- Bump hilt-android from 2.43 to 2.43.2 in /app by @dependabot in #15
-- Bump navigation-fragment-ktx from 2.5.0 to 2.5.1 by @dependabot in #12
-- Bump navigation-ui-ktx from 2.5.0 to 2.5.1 by @dependabot in #11
-- Bump about from 2.5.1 to 2.5.2 by @dependabot in #17
-- Bump appcompat from 1.4.2 to 1.5.0 by @dependabot in #18
-- Bump material from 1.7.0-alpha03 to 1.7.0-beta01 by @dependabot in #19
-- Bump room-runtime from 2.4.2 to 2.4.3 by @dependabot in #20
-- Bump lifecycle-livedata-ktx from 2.5.0 to 2.5.1 by @dependabot in #10
-- Bump room-ktx from 2.4.2 to 2.4.3 by @dependabot in #9
+What's New:
+
+- Dependency updates
+- Gradle 8 and AGP 8
+- Target SDK 34!
+
+What's Changed (pull requests)
+* Bump room-compiler from 2.4.2 to 2.4.3 by @dependabot in https://github.com/jpbandroid/USP/pull/22
+* Bump room-runtime from 2.4.2 to 2.4.3 by @dependabot in https://github.com/jpbandroid/USP/pull/21
+* Bump material from 1.7.0-beta01 to 1.8.0-alpha01 by @dependabot in https://github.com/jpbandroid/USP/pull/23
+* Bump navigation-ui-ktx from 2.5.1 to 2.5.2 by @dependabot in https://github.com/jpbandroid/USP/pull/27
+* Bump core-ktx from 1.8.0 to 1.9.0 by @dependabot in https://github.com/jpbandroid/USP/pull/24
+* Bump navigation-fragment-ktx from 2.5.1 to 2.5.2 by @dependabot in https://github.com/jpbandroid/USP/pull/25
+* Bump appcompat from 1.5.0 to 1.5.1 by @dependabot in https://github.com/jpbandroid/USP/pull/26
+* Bump lifecycle-viewmodel-ktx from 2.6.0-alpha01 to 2.6.0-alpha02 by @dependabot in https://github.com/jpbandroid/USP/pull/28
+* Bump com.github.bumptech.glide:glide from 4.13.2 to 4.15.1 by @dependabot in https://github.com/jpbandroid/USP/pull/65
+* Bump com.github.bumptech.glide:glide from 4.13.2 to 4.15.1 in /app by @dependabot in https://github.com/jpbandroid/USP/pull/64
+* Bump com.google.dagger:hilt-android-compiler from 2.43.2 to 2.45 by @dependabot in https://github.com/jpbandroid/USP/pull/60
+* Bump com.google.dagger:hilt-android from 2.43.2 to 2.45 by @dependabot in https://github.com/jpbandroid/USP/pull/59
+* Bump android-device-names from 2.1.0 to 2.1.1 in /app by @dependabot in https://github.com/jpbandroid/USP/pull/51
+* Bump com.google.dagger:hilt-android-compiler from 2.45 to 2.46 in /app by @dependabot in https://github.com/jpbandroid/USP/pull/73
+* Bump com.google.dagger:hilt-android from 2.45 to 2.46 in /app by @dependabot in https://github.com/jpbandroid/USP/pull/72
+* Bump androidx.browser:browser from 1.4.0 to 1.5.0 by @dependabot in https://github.com/jpbandroid/USP/pull/69
+* Bump androidx.appcompat:appcompat from 1.5.1 to 1.6.1 by @dependabot in https://github.com/jpbandroid/USP/pull/68
+* Bump androidx.test.espresso:espresso-core from 3.5.0-alpha07 to 3.6.0-alpha01 by @dependabot in https://github.com/jpbandroid/USP/pull/67
