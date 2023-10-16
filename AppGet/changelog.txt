@@ -1,6 +1,6 @@
 What's New:
 
-- MORE modularized components
-- New changelog and Description areas
-- Gradle 8.4 and AGP 8.1.2
-- Dependency updates
+- *Initial stable release*
+- Introduction of final homepage UI to replace the prototype testing UI
+- Introduction of page that allows you to update AppGet
+- Removal of centered text used in development from the Home, Software, and Account pages
