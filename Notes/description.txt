@@ -1,0 +1,1 @@
+A FOSS (free and open source) notepad app made by jpb/jpbandroid.
