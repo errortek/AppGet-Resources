@@ -1,0 +1,8 @@
+Fix crashes.
+
+What's Changed
+- Update grpc to v1.57.1 by @renovate in #869
+- Update plugin ksp to v1.9.0-1.0.13 by @renovate in #870
+- Update dependency com.squareup.okio:okio to v3.5.0 by @renovate in #871
+- Update dependency dev.rikka.rikkax.recyclerview:recyclerview-ktx to v1.3.2 by @renovate in #872
+- Fix/misc by @zhaobozhen in #873
