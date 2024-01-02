@@ -1,6 +1,6 @@
 What's New:
 
-- Changes app name to ST/ScratchTappy
-- Replaces GMS OSS Licenses UI with Jetpack Compose-based UI
-- Update Gradle to 8.4 and AGP to 8.1.2
+- Add some new Fire Tablets and Fire TV devices to the user friendly device name identification mechanism
+- First ScratchTappy release of 2024!!
 - Update dependencies
+- Update Gradle to v8.6-rc and AGP to v8.2.0
