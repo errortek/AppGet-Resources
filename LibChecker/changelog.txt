@@ -1,4 +1,4 @@
 What's Changed
-- Fixed an issue where snapshots of some applications couldn't be saved.- 
-- Fixed an issue where some applications crashed when entering the details page.0- 
+- Fixed an issue where snapshots of some applications couldn't be saved.
+- Fixed an issue where some applications crashed when entering the details page.
 - In this version, the first time you save a snapshot, it will use full saving, which may take a longer time.
