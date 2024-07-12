@@ -1,9 +1,8 @@
 What's New:
 
-- jpb Notes and LibChecker added to the appstore!
-- USP 9 has been readded, now installable/updatable alongside ScratchTappy!
-- Accounts page now has a UI!
-- New About page added, with device info, and sdk info
-- Jetpack Compose-based OSS Licenses have been added!
-- Sizes of installed apps are now more realistic
+- Material3 styles have been introduced!
+- Target SDK updated to 35!
 - Dependency updates
+- Create app category and author pages
+- Revamp About UI
+- Enable app update page (however it doesn't work yet)
