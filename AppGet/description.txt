@@ -1,1 +1,2 @@
-jpbROM's app store; can also be installed on devices that don't run jpbROM through the APK in the Releases page
+SurgeOS' app store; also known as "AppGet Lite", can be downloaded and installed on other Android devices through the Releases page.
+AppGet v10 (based on F-Droid) is not included in SurgeOS but can be downloaded and installed from its repository.

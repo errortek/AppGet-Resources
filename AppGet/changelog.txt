@@ -1,8 +1,5 @@
-What's New:
-
-- Material3 styles have been introduced!
-- Target SDK updated to 35!
-- Dependency updates
-- Create app category and author pages
-- Revamp About UI
-- Enable app update page (however it doesn't work yet)
+- Overhaul the app download and install process
+- Merge all app details pages into one and make it modular
+- Allow more app info to be fetched from the resources repo
+- UI updates
+- Update dependencies
